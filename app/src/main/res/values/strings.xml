@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipe</string>
+    <string name="sample_list_load_error">Error while reading json file</string>
+    <string name="background_content_description">background</string>
+    <string name="no_data_exists">No data found</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
